@@ -1,0 +1,7 @@
+      Model Name: MacBook Pro
+      Chip: Apple M5 Pro
+      Total Number of Cores: 15 (5 Super and 10 Performance)
+      Memory: 24 GB
+ProductName:		macOS
+ProductVersion:		27.2.1
+BuildVersion:		26B131
