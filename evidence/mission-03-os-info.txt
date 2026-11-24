@@ -1,0 +1,32 @@
+$ sw_vers
+ProductName:		macOS
+ProductVersion:		27.2.1
+BuildVersion:		26B131
+
+$ uname -sr
+Darwin 27.2.0
+$ uname -m
+arm64
+$ whoami
+anshgandhi
+
+$ ps aux | wc -l
+     919
+
+$ top -l 1 -n 0 | head -8
+Processes: 919 total, 3 running, 916 sleeping, 4456 threads 
+2026/11/25 01:03:02
+Load Avg: 1.49, 1.63, 1.67 
+CPU usage: 1.96% user, 6.33% sys, 91.70% idle 
+SharedLibs: 1040M resident, 181M data, 320M linkedit.
+MemRegions: 481232 total, 6569M resident, 501M private, 2868M shared.
+PhysMem: 22G used (3297M wired, 1895M compressor), 1294M unused.
+VM: 453T vsize, 57G framework vsize, 12(0) swapins, 16(0) swapouts.
+
+$ df -h /
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   926Gi    13Gi   719Gi     2%    487k  4.3G    0%   /
+
+$ ls -l README.md /etc/hosts
+-rw-r--r--  1 root        wheel  213 Nov  6 10:52 /etc/hosts
+-rw-r--r--@ 1 anshgandhi  staff  947 Nov 25 00:59 README.md
