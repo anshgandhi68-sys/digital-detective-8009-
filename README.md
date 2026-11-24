@@ -5,7 +5,7 @@ My work for the Digital Detective independent learning assignment. Each mission 
 | # | Mission | Status |
 |---|---------|--------|
 | 00 | [Setup](mission-00-setup/README.md) | In progress |
-| 01 | [Computer Basics](mission-01-computer-basics/README.md) | Not started |
+| 01 | [Computer Basics](mission-01-computer-basics/README.md) | In progress |
 | 02 | [Terminal](mission-02-terminal/README.md) | Not started |
 | 03 | [Operating System](mission-03-operating-system/README.md) | Not started |
 | 04 | [Programs](mission-04-programs/README.md) | Not started |
