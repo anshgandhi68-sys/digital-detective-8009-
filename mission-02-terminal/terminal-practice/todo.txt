@@ -1,0 +1,2 @@
+Mission 02 practice file - Ansh
+Learnt: pwd, ls, cd, mkdir
