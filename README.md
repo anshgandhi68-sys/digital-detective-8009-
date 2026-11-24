@@ -1,5 +1,12 @@
 # Digital Detective — Ansh Gandhi
 
+## About me
+
+I'm Ansh, and this repo is my record of learning how computers really work, from the hardware inside my MacBook to how a website reaches my screen. Every mission folder has the commands I ran, the output I got, and what I learnt.
+
+**My setup:** MacBook Pro (Apple M5 Pro, 24 GB RAM) · macOS 27.2.1 · Python 3.14.6 · Git 2.54.0 · VS Code
+
+
 My work for the Digital Detective independent learning assignment. Each mission has its own folder with a README describing what I did.
 
 | # | Mission | Status |
