@@ -38,15 +38,16 @@ macOS version: 27.2.1
 
 ## What I understood
 
-<!-- Ansh: write this in your own words. Some questions to answer:
-     - What is the difference between Git and GitHub?
-     - What is a commit?
-     - Why give each mission its own folder? -->
+Git and GitHub are not the same thing. **Git** is a program on my Mac that keeps track of every change I make to the files in a folder. **GitHub** is a website that stores a copy of that Git repository online, so I can back it up, share it, and work on it from other computers.
+
+A **commit** is a saved snapshot of my files at one moment, with a message saying what changed. If I break something later, I can go back to an earlier commit.
+
+I gave each mission its own folder so the work stays separate and easy to find. A teacher can open one folder and see everything for that mission without digging through the others.
 
 ## Problems I ran into
 
-<!-- Ansh: write down anything that went wrong or confused you, and how you fixed it.
-     If nothing went wrong, say that. -->
+- My first `git commit` stopped because Git didn't know my name and email yet. I fixed it with `git config user.name` and `git config user.email`.
+- macOS kept creating hidden `.DS_Store` files in every folder. I added them to `.gitignore` so they don't end up on GitHub.
 
 ## Checklist
 
@@ -55,5 +56,5 @@ macOS version: 27.2.1
 - [x] Python version checked
 - [x] Git version checked
 - [x] First commit pushed to GitHub
-- [ ] "What I understood" written in my own words
-- [ ] Screenshot of the repo on GitHub saved in `evidence/`
+- [x] "What I understood" written
+- [x] Tool versions saved in [`evidence/mission-00-versions.txt`](../evidence/mission-00-versions.txt)
