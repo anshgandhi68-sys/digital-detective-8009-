@@ -1,0 +1,30 @@
+$ python3 mission-04-programs/hello.py
+Hi, I'm Ansh and this is my Digital Detective project.
+2026 in binary is 11111101010
+
+$ python3 mission-05-numbers-data/number_converter.py 25
+     decimal: 25
+      binary: 11001
+ hexadecimal: 19
+$ python3 mission-05-numbers-data/number_converter.py 0x1F
+     decimal: 31
+      binary: 11111
+ hexadecimal: 1F
+$ python3 mission-05-numbers-data/number_converter.py 0b1111
+     decimal: 15
+      binary: 1111
+ hexadecimal: F
+
+$ git log --oneline
+9be5943 Complete Mission 07: networking concepts, network observations, how a website loads
+9b50c03 Complete Mission 06: branch, pull request #1 and Git glossary
+7c66839 Merge pull request #1 from anshgandhi68-sys/add-about-me
+4e476c9 Add About me section to root README
+05cef00 Complete Mission 05: manual conversions, number converter, text encoding
+fdbb650 Complete Mission 04: Python program and compiler vs interpreter comparison
+6e04c11 Complete Mission 03: OS info, processes, paths and permissions
+4639c80 Complete Mission 02: terminal navigation, safe file changes, flags, pipes, Homebrew
+8f3a4be Complete Mission 01: IPOS, hardware vs software, everyday computers
+8abec3e Finish Mission 00 reflections and save version output
+a7eed83 Start Mission 01: computer basics worksheet with my Mac's specs
+8fb5a09 Set up Digital Detective workspace and complete Mission 00
